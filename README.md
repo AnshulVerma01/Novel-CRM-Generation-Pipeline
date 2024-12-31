@@ -20,4 +20,8 @@ The primary script to run the pipeline is provided src/mutAIverse.py. Execute it
 python metgen.py
 ```
 
+Demographics of top 10 scorer of novel generated CRM molecules from Metformin
+!(Image of top 10 scorer generated molecules from Metformin)("image/metgen.png")
+
+
 **NOTE**: For running the pipeline, models for hallmarks of aging are required but we have not provided here yet as this project has not been published yet.
