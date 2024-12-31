@@ -15,4 +15,9 @@ conda activate CRM
 ```
 
 ## Usage
+The primary script to run the pipeline is provided src/mutAIverse.py. Execute it directly by changing the respective file paths.
+```python
+python metgen.py
+```
 
+**NOTE**: For running the pipeline, models for hallmarks of aging are required but we have not provided here yet as this project has not been published yet.
